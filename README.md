@@ -2,7 +2,7 @@
 
 You must have git, python-dev, python-pip and build-essential.  
 To install these packages, following command:  
-$ sudo apt-get install git python-dev python-pip build-essential
+`$ sudo apt-get install git python-dev python-pip build-essential`
 
 You can get the django_rest_todo package.  
 To do this, following commands:  
