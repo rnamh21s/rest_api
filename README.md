@@ -6,7 +6,8 @@ To install these packages, following command:
 
 You can get the django_rest_todo package.  
 To do this, following commands:  
-`$ git clone https://github.com/rnamh21s/rest_api.git`
+`$ git clone https://github.com/rnamh21s/rest_api.git`  
+`$ sudo pip install -r requirements.txt`
 
 Running the server, following command:  
 `$ cd django_rest_todo`  
